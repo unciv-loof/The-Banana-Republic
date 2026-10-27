@@ -1,0 +1,21 @@
+[
+  {
+		"name": "The Banana Republic",
+		"leaderName": "Cranky Kong",
+		"adjective": ["Banana Republican"],
+		"startBias": ["Jungle"],
+		"personality": "Cranky Kong",
+		"outerColor": [255,224,0],
+		"innerColor": [127,111,0],
+		"uniqueName": "Monkey Business",
+		"uniques": [
+      "[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]",
+      "[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Bananas] tiles> <in [Improvement] tiles>"
+    ],
+		"cities": [
+      "Monkey Central", "Monkey City", "Monkey Town", "Monkey Village", "Monkey Hamlet",
+      "Monkey Outpost", "Monkey Colony", "Monkey Resort", "Monkey Shire", "Monkey Port"
+    ],
+    "spyNames": []
+	}
+]
