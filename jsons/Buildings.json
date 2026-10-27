@@ -67,7 +67,7 @@
     "requiredTech": "Electricity"
   },
   {
-    "name": "Temple of The Monkey God",
+    "name": "Temple of the Monkey God",
     "uniqueTo": "The Banana Republic",
     "replaces": "Grand Temple",
     "cost": 125,
