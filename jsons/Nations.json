@@ -1,13 +1,13 @@
 [
   {
-		"name": "The Banana Republic",
-		"leaderName": "Cranky Kong",
-		"adjective": ["Banana Republican"],
-		"startBias": ["Jungle", "Bananas"],
-		"personality": "Cranky Kong",
+    "name": "The Banana Republic",
+    "leaderName": "Cranky Kong",
+    "adjective": ["Banana Republican"],
+    "startBias": ["Jungle", "Bananas"],
+    "personality": "Cranky Kong",
     "preferredVictoryType": "Scientific",
-		"outerColor": [255,224,0],
-		"innerColor": [127,111,0],
+    "outerColor": [255,224,0],
+    "innerColor": [127,111,0],
     
     "introduction": "Greetings, fellow simian. Care for a banana?",
     "tradeRequest": "One banana, two bananas... I think we can make this work.",
@@ -17,15 +17,15 @@
     "neutralHello": "State your business. You're not a scrumper, are you?",
     "hateHello": "Keep your distance. I've got a dart with your name on it.",
     
-		"uniqueName": "Monkey Business",
-		"uniques": [
+    "uniqueName": "Monkey Business",
+    "uniques": [
       "[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]",
       "[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Bananas] tiles> <in [Improvement] tiles>"
     ],
-		"cities": [
+    "cities": [
       "Monkey Central", "Monkey City", "Monkey Town", "Monkey Village", "Monkey Hamlet",
       "Monkey Outpost", "Monkey Colony", "Monkey Resort", "Monkey Shire", "Monkey Port"
     ],
     "spyNames": ["Meerkat", "Quickfingers", "Silent Simian", "Squawks", "Covert Kong", "Macaque"]
-	}
+  }
 ]
