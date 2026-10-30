@@ -20,7 +20,7 @@
     "uniqueName": "Monkey Business",
     "uniques": [
       "[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]",
-      "[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Bananas] tiles> <in [Improvement] tiles>"
+      "[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <in [Improvement] tiles> <with [1] to [6] neighboring [Bananas] tiles>"
     ],
     "cities": [
       "Monkey Central", "Monkey City", "Monkey Town", "Monkey Village", "Monkey Hamlet",

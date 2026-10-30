@@ -1,348 +1,348 @@
 
 game.png
-size: 2048, 1024
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Banana Barn
   rotate: false
-  xy: 490, 712
+  xy: 713, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Banana Exchange
   rotate: false
-  xy: 598, 820
+  xy: 490, 51
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Banana Research Facility
   rotate: false
-  xy: 706, 820
+  xy: 821, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Bloontonium Reactor
   rotate: false
-  xy: 814, 820
+  xy: 929, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Jungle Drums
   rotate: false
-  xy: 1138, 820
+  xy: 1901, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Monkey Academy
   rotate: false
-  xy: 1138, 712
+  xy: 706, 159
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Monkey Bank
   rotate: false
-  xy: 1246, 712
+  xy: 814, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Monkey Intelligence Bureau
   rotate: false
-  xy: 1462, 712
+  xy: 1030, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Monkey Statue
   rotate: false
-  xy: 1678, 820
+  xy: 1138, 58
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Temple of the Monkey God
   rotate: false
-  xy: 549, 64
+  xy: 1462, 58
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Banana Farm
   rotate: false
-  xy: 490, 604
+  xy: 598, 159
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Banana Plantation
   rotate: false
-  xy: 598, 712
+  xy: 713, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Monkey Fort
   rotate: false
-  xy: 1462, 820
+  xy: 922, 58
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Pineapple Stand
   rotate: false
-  xy: 1894, 712
+  xy: 1577, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Potassium Pit
   rotate: false
-  xy: 490, 388
+  xy: 1685, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Ring of Fire
   rotate: false
-  xy: 598, 388
+  xy: 1793, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Cranky Kong
   rotate: false
-  xy: 4, 4
-  size: 429, 430
-  orig: 429, 430
+  xy: 490, 267
+  size: 215, 215
+  orig: 215, 215
   offset: 0, 0
   index: -1
 NationIcons/The Banana Republic
   rotate: false
-  xy: 4, 442
+  xy: 4, 4
   size: 478, 478
   orig: 478, 478
   offset: 0, 0
   index: -1
 UnitIcons/Apache Dartship
   rotate: false
-  xy: 490, 820
+  xy: 490, 159
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bionic Boomerang Thrower
   rotate: false
-  xy: 490, 496
+  xy: 598, 51
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bloontonium Bomb
   rotate: false
-  xy: 598, 604
+  xy: 821, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bloontonium Missile
   rotate: false
-  xy: 706, 712
+  xy: 929, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bloontonium Sub
   rotate: false
-  xy: 598, 496
+  xy: 1037, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bomb Shooter
   rotate: false
-  xy: 706, 604
+  xy: 1037, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Boomerang Thrower
   rotate: false
-  xy: 814, 713
+  xy: 1145, 383
   size: 100, 99
   orig: 100, 99
   offset: 0, 0
   index: -1
 UnitIcons/Dart Monkey
   rotate: false
-  xy: 922, 820
+  xy: 1145, 275
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Dartling Gun
   rotate: false
-  xy: 706, 496
+  xy: 1253, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elite Sniper Monkey
   rotate: false
-  xy: 814, 605
+  xy: 1361, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Glaive Lord
   rotate: false
-  xy: 922, 712
+  xy: 1469, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Glaive Monkey
   rotate: false
-  xy: 1030, 820
+  xy: 1577, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Glue Monkey
   rotate: false
-  xy: 814, 497
+  xy: 1685, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hydra Rocket Pods
   rotate: false
-  xy: 1030, 712
+  xy: 1793, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Monkey Ace
   rotate: false
-  xy: 1246, 820
+  xy: 706, 51
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Monkey Buccaneer
   rotate: false
-  xy: 1354, 820
+  xy: 814, 58
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Monkey Engineer
   rotate: false
-  xy: 1354, 712
+  xy: 922, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Monkey Pirates
   rotate: false
-  xy: 1570, 820
+  xy: 1030, 58
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Monkey Rider
   rotate: false
-  xy: 1570, 712
+  xy: 1138, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Monkey Sub
   rotate: false
-  xy: 1678, 712
+  xy: 1246, 167
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mortar Monkey
   rotate: false
-  xy: 1786, 820
+  xy: 1246, 59
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ninja Monkey
   rotate: false
-  xy: 1786, 712
+  xy: 1361, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pineapple Plane
   rotate: false
-  xy: 1894, 820
+  xy: 1469, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Robo Monkey
   rotate: false
-  xy: 706, 388
+  xy: 1901, 274
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sniper Monkey
   rotate: false
-  xy: 814, 389
+  xy: 1354, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spectre
   rotate: false
-  xy: 441, 280
+  xy: 1462, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spike Monkey
   rotate: false
-  xy: 441, 172
+  xy: 1570, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spike-o-pult
   rotate: false
-  xy: 549, 280
+  xy: 1678, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tack Shooter
   rotate: false
-  xy: 441, 64
+  xy: 1786, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tack Sprayer
   rotate: false
-  xy: 549, 172
+  xy: 1894, 166
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Technological Terror
   rotate: false
-  xy: 657, 280
+  xy: 1354, 58
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
