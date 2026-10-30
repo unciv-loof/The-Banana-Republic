@@ -1,5 +1,20 @@
 [
   {
     "name": "Cranky Kong",
+    "production": 5,
+    "food": 6,
+    "gold": 5,
+    "science": 5,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 5,
+    "military": 5,
+    "aggressive": 5,
+    "declareWar": 5,
+    "commerce": 6,
+    "diplomacy": 6,
+    "loyal": 6,
+    "expansion": 5,
+    "denounceWillingness": 5
   }
 ]
