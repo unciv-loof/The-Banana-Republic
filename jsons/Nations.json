@@ -7,7 +7,7 @@
     "personality": "Cranky Kong",
     "preferredVictoryType": "Scientific",
     "outerColor": [255,224,0],
-    "innerColor": [127,111,0],
+    "innerColor": [102,89,0],
     
     "introduction": "Greetings, fellow simian. Care for a banana?",
     "tradeRequest": "One banana, two bananas... I think we can make this work.",
